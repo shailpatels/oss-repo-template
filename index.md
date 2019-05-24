@@ -1,8 +1,12 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## Shail Patel
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+Hi! I'm a Computer & Cognitive Science Major @ RPI. I work
+on the Submitty team and I'm interested in formal logic and
+software for education. 
+
+![me](../me.jpg)
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
