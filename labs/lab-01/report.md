@@ -18,6 +18,10 @@ I've never used an IRC or email list before to ask help but I think something si
 ### Free Culture
 First of all it was really cool to see RPI mentioned and praised for its technical strength somewhere other than an accepted students day :) . The idea of not having a search engine feels so strange, growing up with google its often a foreign concept of not having massive indexes of data at your fingertips. It was absurd that the RIAA considered this pirating especially since it sounds like all Jesse worked on was the file explorer system and non of the content itself. If all this was on RPI's network at the time, other internet search engines must of had magnitudes more that the RIAA conveniently overlooked. The fact the RIAA wanted 100 billion across all these college students is insane! Any person would see how unreasonable that is even if anyone did pirate anything which from this chapter sounds like they did not. The chapter ends with Jesse becoming an activist but just stops there. The next chapter doesn't mention him either so I thats kind of annoying, I want to know how his story ended. It would be nice if he could something out of this. This chapter makes me want to pirate music now!
 
+
+### linux 
+![linux](screenshot.png)
+
 ### Regex
 #### (Here are the solutions before num. 7)
 	\d$
