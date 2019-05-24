@@ -6,7 +6,9 @@ Hi! I'm a Computer & Cognitive Science Major @ RPI. I work
 on the Submitty team and I'm interested in formal logic and
 software for education. 
 
-![me](../me.jpg)
+In my free time I like to draw and my favorite animal is the koala :)
+
+<img src = "me.jpg" height="300" />
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
