@@ -4,6 +4,7 @@
 #### email: patels17@rpi.edu or shailpatel67@gmail.com
 #### github: shailpatels
 #### mattermost: @shail
+#### website: https://shailpatels.me
 
 ## Bio
 Hi! I'm a Computer & Cognitive Science Major @ RPI. I work
