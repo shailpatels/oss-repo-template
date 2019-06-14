@@ -18,3 +18,5 @@ In my free time I like to draw and my favorite animal is the koala :)
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
 [Lab 2](labs/lab-02/Lab2.md)
+[Lab 3](labs/lab-03/lab3.md)
+[Lab 4](labs/lab-04/lab4.md)
