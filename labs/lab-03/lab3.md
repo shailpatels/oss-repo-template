@@ -60,6 +60,8 @@ similar to dockerhub or github
 	- webgl-gsoc-2018
 	- p5.sound-0.3.10
 
+Link to [other projects](https://github.com/LingCheng3273/OSS-Exercises/blob/master/RCOSProjects.md)
+
 #5 
 The number of authors is different, gitstats lists 333, which is different than the number listed on GitHub
 The number of lines is also different, gitstats reports 130660. 
