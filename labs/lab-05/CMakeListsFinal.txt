@@ -1,0 +1,12 @@
+
+ADD_LIBRARY( StaticLibrary STATIC source/block.c )
+ADD_LIBRARY( SharedLibrary SHARED source/block.c )
+
+# make the programs
+add_executable(STATIC program.c)
+add_executable(SHARED program.c)
+
+# link libs
+TARGET_LINK_LIBRARIES( STATIC StaticLibrary )
+TARGET_LINK_LIBRARIES( SHARED SharedLibrary )
+

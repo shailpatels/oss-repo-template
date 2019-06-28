@@ -1,0 +1,5 @@
+add_library(MathFunctions mysqrt.cxx)
+
+
+target_include_directories(MathFunctions
+	INTERFACE ${SMAKE_CURRENT_SOURCE_DIR})
