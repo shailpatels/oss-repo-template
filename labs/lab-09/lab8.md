@@ -50,3 +50,5 @@ The koala bag according to Submitty's model is really the number 8
 
 Who's right? the debate rages on
 
+Here's a blog update for my OSS project : 
+https://shailpatels.me/blog1/blog1.html
